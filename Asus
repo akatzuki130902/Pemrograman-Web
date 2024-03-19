@@ -1,0 +1,214 @@
+<!Doctype html>
+<html>
+
+<head>
+	<title>http.www.ASUS.Com.Tek</title>
+</head>
+<style>
+	p {
+		background-color: yellow;
+		text-align: center;
+	}
+
+	p1 {
+		background-color: lightblue;
+		margin-bottom: center;
+
+	}
+</style>
+
+
+<body bgcolor="white">
+	<h2 Style="color:red;">
+		<marquee>Welcome To ASUS Website</marquee>
+	</h2>
+	<hr>
+	</hr>
+	<padding-bottom>
+		<h4>Menu</h4>
+	</padding-bottom>
+
+	<ol style="color:black;">
+		<li>ASUS ROG
+		<li> ASUS TUF Gaming
+		<li>ASUS ROG Phone
+		<li>PC Gaming Asus
+	</ol>
+	<center>
+		<br>
+		<form>
+			Nama:
+			<input text="login" name=" login">
+			<br>
+			password
+			<input text="password" name="password">
+			<input type="submit">
+		</form>
+		<table border="5" bordercolor="black">
+
+			<caption>Spesifikasi PC Gaming</caption>
+			<tr>
+				<th bgcolor="white">Jenis Jenis Motherboard</th>
+				<th bgcolor="white">Jenis Jenis Processor</th>
+				<th bgcolor="white">Jenis Jenis Visual Graphic Card</th>
+			</tr>
+
+			<tr>
+				<td color="white">Motherboard LS 1131</td>
+				<td>Intel Core i5 9400f</td>
+				<td>Nvidia GTX 1050 Ti</td>
+			</tr>
+
+			<tr>
+				<td>Motherboard LX176</td>
+				<td> AMD Rayzen 5</td>
+				<td>AMD Radeon Vega</td>
+			</tr>
+
+			<tr>
+				<td>Motherboard AX 745</td>
+				<td> AMD Rayzen 7</td>
+				<td>Nvidia GTX 1060</td>
+			</tr>
+
+			<tr>
+				<td>Motherboard RX 190</td>
+				<td> Intel Core i7 8750g</td>
+				<td> Nvidia RTX 2060</td>
+			</tr>
+		</table>
+	</center>
+	</br>
+	<center>
+		<manifest>
+			<table border="5" bordercolor="black">
+		</manifest>
+		<caption> Laptop Gaming</caption>
+		<tr>
+			<th bgcolor="white">ASUS Republic of Gamers</th>
+			<th bgcolor="white">ASUS The Ultimate Force</th>
+		</tr>
+		<tr>
+			<td> ROG Strix GL503GE</td>
+			<td> TUF FX504GE</td>
+		</tr>
+		<tr>
+			<td> ASUS ROG GL503VD</td>
+			<td> TUF FX504GD</td>
+		</tr>
+		<tr>
+			<td>ASUS ROG GL503VM</td>
+			<td>TUF FX505GE</td>
+		</tr>
+		<tr>
+			<td>ASUS ROG GL503VS</td>
+			<td>TUF FX505GD</td>
+		</tr>
+		<tr>
+			<td>ASUS ROG GL503VX</td>
+			<td>TUF FX705GD</td>
+		</tr>
+		</table>
+	</center>
+
+	<br></br>
+	<center>
+		<manifest>
+			<table border="5" bordercolor="black">
+		</manifest>
+		<caption>Zenfone</caption>
+		<tr>
+			<th bgcolor="white">Zenfone Zoom</th>
+			<th bgcolor="white">Zenfone Max/Max Pro</th>
+			<th bgcolor="white">Zenfone Series</th>
+		</tr>
+
+		<tr>
+			<td>Zenfone Zoom s</td>
+			<td>Zenfone Max 1</td>
+			<td>Zenfone Live</td>
+		</tr>
+
+		<tr>
+			<td>Zenfone Zoom 3</td>
+			<td>Zenfone Max 2 </td>
+			<td>Zenfone Selfie</td>
+		</tr>
+
+		<tr>
+			<td>Zenfone Zoom 4</td>
+			<td>Zenfone Pro M1 </td>
+			<td>Zenfone Go</td>
+		</tr>
+		</table>
+	</center>
+
+	<br></br>
+
+
+	<a href="alamat_web.html">Pencarian alamat toko terdekat</a>
+	<footer>
+		<h5>contact by :Gerardus Aditya</h5>
+		<h5>contact Person<a href="mailto:prasetyogerardus3gmail.com">prasetyogerardus3gmail.com"</a></h5>
+	</footer>
+	<p1>dsadwqdwd</p1>
+
+	<br></br>
+
+
+	<p align="center">
+		<h3><u>Harga yang dijual untuk seri Laptop ROG dan TUF serta Zenfone</u></h3>
+	</p>
+	< <table border="5" align="center">
+		<tr>
+			<th>ROG</th>
+			<th>Harga</th>
+			<th>TUF</th>
+			<th>Harga</th>
+		</tr>
+		<tr>
+			<td>GL503GE</td>
+			<td>Rp 16.500.000</td>
+			<td>TUF FX504GD</td>
+			<td>Rp 12.999.000</td>
+		</tr>
+		<tr>
+			<td>GL503VD HERO</td>
+			<td>Rp 16.500.000</td>
+			<td>TUF FX504GD</td>
+			<td>Rp 14.999.000</td>
+		</tr>
+		<tr>
+			<td>GL503VD SCAR</td>
+			<td>Rp 15.799.000</td>
+			<td>TUF FX504GE</td>
+			<td>Rp 15.799.000</td>
+		</tr>
+		<tr>
+			<td>GL504VM SCAR I</td>
+			<td>Rp 19.799.000</td>
+			<td>TUF FX505GD</td>
+			<td>Rp 16.799.000</td>
+		</tr>
+		<tr>
+			<td>GL504VM SCAR II</td>
+			<td>Rp 24.799.000</td>
+			<td>TUF FX505GE</td>
+			<td>Rp 17.599.000</td>
+		</tr>
+
+		</table>
+
+		<p>Laptop yang terlaris:
+			<ol>
+				<li>Asus ROG GL503GE</li>
+				<li>Asus ROG GL503VD</li>
+				<li>Asus TUF FX504GD</li>
+				<li>Asus TUF FX504GE</li>
+			</ol>
+		</p>
+		<p> Zephyrus</p>
+
+</body>
+
+</html>
