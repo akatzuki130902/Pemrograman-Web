@@ -1,0 +1,31 @@
+<html>
+<head>
+  <title>Alamat terdekat di Semarang</title>
+  <head>
+  <body>
+  <p><h2>Alamat Toko di Semarang</h2></p>
+  <hr></hr>
+  <table border="3" bordercolor="black">
+  <tr>
+  <th bgcolor="white">Pencarian toko terdekat di kota anda</th>
+  </tr>
+  </table>
+  
+  
+  
+  <ol>
+  <li>CARREFOUR DP MALL SEMARANG	(024) 86577979
+Jl. Pemuda No.150, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah 50132</li>
+  <li>CARREFOUR SRONDOL SEMARANG	0822-0825-5170
+Jalan Jenderal Pol Anton Sujarwo No.119, Srondol Wetan, Banyumanik, Srondol Kulon, Banyumanik, Kota Semarang, Jawa Tengah 50263
+</li>
+<li>Hypermart Java Supermall	(024) 8410525
+JL. MT. Haryono, No. 992-994, Purwodinatan, Semarang Tengah, Kota Semarang, Jawa Tengah 50137</li>
+<li>Hypermart Paragon City	(024) 86579044
+Paragon Mall Lt. Basement, Jalan Pemuda No.118, Sekayu, Semarang Tengah, Sekayu, Semarang Tengah, Kota Semarang, Jawa Tengah 50132
+</li>
+  </ol>
+  </body>
+
+
+</html>
